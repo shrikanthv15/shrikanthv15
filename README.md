@@ -1,5 +1,5 @@
-# Hi there, I'm Shrikanth Vilvadrinath 👋
-### Data Analyst & AI Engineer | Master's Student at UMD
+# Hi there, I'm Shri👋
+### Junior AI Engineer | Master's Student at UMD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shrikanthv15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat&logo=netlify)](https://shrikanthvilvadrinath.netlify.app)
