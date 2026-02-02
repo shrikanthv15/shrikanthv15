@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I am a **Data Analyst** and **Full-Stack AI Engineer** pursuing my **Master's in Data Science** at the **University of Maryland, College Park**[cite: 7, 8]. I specialize in transforming complex datasets into actionable insights and building scalable AI-driven web applications.
+I am a **Data Analyst** and **Full-Stack AI Engineer** pursuing my **Master's in Data Science** at the **University of Maryland, College Park**. I specialize in transforming complex datasets into actionable insights and building scalable AI-driven web applications.
 
 * 🔭 **Currently working on:** Automating complex workflows with **Temporal.io** and **LLMs**.
 * 🎓 **Education:** MS in Data Science (UMD, 4.0 GPA) & BSc in Data Science (IIT Madras).
@@ -20,8 +20,8 @@ I am a **Data Analyst** and **Full-Stack AI Engineer** pursuing my **Master's in
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | Python, SQL, R, JavaScript [cite: 9] |
-| **Data & AI** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Apache Spark [cite: 9] |
+| **Languages** | Python, SQL, R, JavaScript  |
+| **Data & AI** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Apache Spark |
 | **GenAI & LLMs** | OpenAI GPT-4, Ollama, LangChain, Hugging Face |
 | **Web Frameworks** | FastAPI, Flask, React, Next.js, VueJS |
 | **Tools & Cloud** | Temporal.io, Docker, Tableau, Power BI, Apache Airflow |
@@ -43,15 +43,15 @@ A production-ready **Loan Origination System** that automates underwriting using
 
 A comprehensive analytics platform for **Valorant Champions 2025** data.
 * **Performance Metrics:** Visualizes trends across 10+ key player metrics using Plotly interactive charts.
-* **Real-Time Classification:** Integrated Random Forest models (85% accuracy) for player classification and match prediction[cite: 9].
+* **Real-Time Classification:** Integrated Random Forest models (85% accuracy) for player classification and match prediction.
 * **Deep Analytics:** Dedicated pages for team/player profiles, economy stats, and map performance.
 
 ### 🩺 Radiology Report AI Assistant
 **Stack:** Python, Ollama, LangChain, Flask
 
 An AI-powered assistant designed to streamline clinical workflows.
-* **Automation:** Reduced manual report review time by ~35% by automating key term extraction[cite: 9].
-* **Interactive QA:** Implemented a "Click-to-Explain" feature for 100+ diagnostic reports using local LLMs[cite: 9].
+* **Automation:** Reduced manual report review time by ~35% by automating key term extraction.
+* **Interactive QA:** Implemented a "Click-to-Explain" feature for 100+ diagnostic reports using local LLMs.
 
 ---
 
@@ -60,7 +60,7 @@ An AI-powered assistant designed to streamline clinical workflows.
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **[GROCEREZ](https://github.com/shrikanthv15/GROCEREZ)** | Flask, VueJS, Redis | A multi-vendor grocery shopping application with async worker support. |
-| **[Study Portal AI](https://github.com/shrikanthv15/MAD2-Proj)** | React, Python, NLP | Generative AI platform improving student engagement by ~30% via personalized tutoring[cite: 9]. |
+| **[Study Portal AI](https://github.com/shrikanthv15/MAD2-Proj)** | React, Python, NLP | Generative AI platform improving student engagement by ~30% via personalized tutoring. |
 | **[NLP Analysis](https://github.com/shrikanthv15/DATA641-NLP-Homework-3)** | Jupyter Notebook | Advanced NLP assignments for Data641 class at UMD. |
 
 ---
