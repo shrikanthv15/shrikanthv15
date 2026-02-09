@@ -1,66 +1,53 @@
-# Hi there, I'm Shri👋
-### Junior AI Engineer | Master's Student at UMD
+# Hi, I'm shrikanthv15
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shrikanthv15)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat&logo=netlify)](https://shrikanthvilvadrinath.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:shri15@terpmail.umd.edu)
+Junior AI Engineer and MS in Data Science student at UMD (GPA 4.0), with a BSc in Data Science from IIT Madras, focused on automating complex workflows with Temporal.io and LLMs.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrikanthv15/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shri15@terpmail.umd.edu)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shrikanthvilvadrinath.netlify.app)
 
-## 🚀 About Me
-I am a **Data Analyst** and **Full-Stack AI Engineer** pursuing my **Master's in Data Science** at the **University of Maryland, College Park**. I specialize in transforming complex datasets into actionable insights and building scalable AI-driven web applications.
+| Category | Technologies |
+|----------|-------------|
+| Languages | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Other](https://img.shields.io/badge/Other-9E9E9E?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| Backend | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| Frontend | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| DevOps & Tools | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-* 🔭 **Currently working on:** Automating complex workflows with **Temporal.io** and **LLMs**.
-* 🎓 **Education:** MS in Data Science (UMD, 4.0 GPA) & BSc in Data Science (IIT Madras).
-* 💡 **Core Skills:** Building interactive dashboards, automating data workflows, and developing Generative AI solutions.
+## Featured Projects
 
----
+### [DATA641-NLP-Homework-3](https://github.com/shrikanthv15/DATA641-NLP-Homework-3)
+> End-to-end NLP sentiment analysis project with configurable RNN variants (RNN, LSTM, BiLSTM) using PyTorch, including training, evaluation, and artifact generation.
 
-## 🛠️ Tech Stack
+- Architecture and tech choices emphasize a modular ML pipeline: DataSource -> Preprocessor -> Tokenizer -> Model -> Trainer -> Evaluator -> ArtifactStore -> InsightsDashboard.
+- PyTorch-based experimentation with multiple RNN variants and configurable architectures for reproducible results.
+- Artifacts include trained model checkpoints, evaluation reports, and dashboard-ready insights.
+- Stars: ![Stars](https://img.shields.io/github/stars/shrikanthv15/DATA641-NLP-Homework-3?style=social)
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | Python, SQL, R, JavaScript  |
-| **Data & AI** | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Apache Spark |
-| **GenAI & LLMs** | OpenAI GPT-4, Ollama, LangChain, Hugging Face |
-| **Web Frameworks** | FastAPI, Flask, React, Next.js, VueJS |
-| **Tools & Cloud** | Temporal.io, Docker, Tableau, Power BI, Apache Airflow |
+### [Git Repo Organizer](https://github.com/shrikanthv15/Git-Repo-Organizer)
+> A full‑stack platform to analyze and organize Git repositories with AI assistance. The backend is a FastAPI application backed by PostgreSQL, with Temporal for orchestration of long‑running tasks. The frontend is a Next.js application that provides a dashboard and repository pages. The project includes Docker Compose orchestration to run the backend, frontend, PostgreSQL, and Temporal server together.
 
----
+- Architecture highlights: Backend services (FastAPI + PostgreSQL) with Temporal as the orchestrator, a Next.js frontend, and containerized deployment via Docker Compose.
+- Clear separation of concerns: data ingestion, orchestration, and presentation layers with AI-assisted repository insights.
+- Tech focus: FastAPI, PostgreSQL, Temporal, Next.js, Docker Compose.
+- Stars: ![Stars](https://img.shields.io/github/stars/shrikanthv15/Git-Repo-Organizer?style=social)
 
-## 🏆 Featured Projects
+### [GROCEREZ](https://github.com/shrikanthv15/GROCEREZ)
+> A Flask + VueJS + SQLite + Celery + Redis Grocery Shopping Application
 
-### 🏦 [Moxi Mortgage Auto-Underwriter](https://github.com/shrikanthv15/YOUR-REPO-LINK-HERE)
-**Stack:** FastAPI, Temporal.io, React, OpenAI, PostgreSQL
+- Full-stack design with a Flask backend, a Vue.js frontend, and SQLite for storage.
+- Asynchronous task processing driven by Celery with Redis as the broker/backend.
+- Architectural emphasis on responsive UI, modular backend services, and robust task queues for shopping workflows.
+- Stars: ![Stars](https://img.shields.io/github/stars/shrikanthv15/GROCEREZ?style=social)
 
-A production-ready **Loan Origination System** that automates underwriting using AI.
-* **AI Analysis:** Uses GPT-4o to extract structured data from PDF tax returns and pay stubs.
-* **Workflow Engine:** Manages complex state (Auto-Approval vs. Manual Review) using Temporal.io.
-* **Dashboard:** Provides a "Manager Workstation" for human-in-the-loop decision-making.
+### [valorant-data-analysis](https://github.com/shrikanthv15/valorant-data-analysis)
+> Valorant Analytics - Teams & Players
 
-### 🎮 [Valorant Analytics Engine](https://github.com/shrikanthv15/valorant-data-analysis)
-**Stack:** Python, Flask, React, Plotly, Streamlit
+- Comprehensive analytics platform with dedicated team pages and player pages, featuring performance analytics and UI-driven visualizations.
+- Tech stack includes Flask, NumPy, Pandas, TensorFlow, and scikit-learn; Plotly-based visualizations and interactive charts.
+- Architecture emphasizes data ingestion, feature extraction, model-based insights, and dashboard rendering for rapid decision making.
+- Stars: ![Stars](https://img.shields.io/github/stars/shrikanthv15/valorant-data-analysis?style=social)
 
-A comprehensive analytics platform for **Valorant Champions 2025** data.
-* **Performance Metrics:** Visualizes trends across 10+ key player metrics using Plotly interactive charts.
-* **Real-Time Classification:** Integrated Random Forest models (85% accuracy) for player classification and match prediction.
-* **Deep Analytics:** Dedicated pages for team/player profiles, economy stats, and map performance.
-
-### 🩺 Radiology Report AI Assistant
-**Stack:** Python, Ollama, LangChain, Flask
-
-An AI-powered assistant designed to streamline clinical workflows.
-* **Automation:** Reduced manual report review time by ~35% by automating key term extraction.
-* **Interactive QA:** Implemented a "Click-to-Explain" feature for 100+ diagnostic reports using local LLMs.
-
----
-
-## 📂 Other Repositories
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[GROCEREZ](https://github.com/shrikanthv15/GROCEREZ)** | Flask, VueJS, Redis | A multi-vendor grocery shopping application with async worker support. |
-| **[Study Portal AI](https://github.com/shrikanthv15/MAD2-Proj)** | React, Python, NLP | Generative AI platform improving student engagement by ~30% via personalized tutoring. |
-| **[NLP Analysis](https://github.com/shrikanthv15/DATA641-NLP-Homework-3)** | Jupyter Notebook | Advanced NLP assignments for Data641 class at UMD. |
-
----
+## GitHub Stats Widget
+```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrikanthv15&show_icons=true&theme=tokyonight&hide_border=true)
+```
