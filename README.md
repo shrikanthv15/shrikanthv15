@@ -64,3 +64,6 @@ An AI-powered assistant designed to streamline clinical workflows.
 | **[NLP Analysis](https://github.com/shrikanthv15/DATA641-NLP-Homework-3)** | Jupyter Notebook | Advanced NLP assignments for Data641 class at UMD. |
 
 ---
+
+![shrikanthv15's Dev Card](https://gitwrapped.aryansync.com/api/card/shrikanthv15)
+
