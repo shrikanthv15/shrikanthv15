@@ -7,6 +7,9 @@
 
 ---
 
+![shrikanthv15's Dev Card](https://gitwrapped.aryansync.com/api/card/shrikanthv15)
+
+Get your Own Github Badge from: https://gitwrapped.aryansync.com
 ## 🚀 About Me
 I am a **Data Analyst** and **Full-Stack AI Engineer** pursuing my **Master's in Data Science** at the **University of Maryland, College Park**. I specialize in transforming complex datasets into actionable insights and building scalable AI-driven web applications.
 
@@ -64,6 +67,4 @@ An AI-powered assistant designed to streamline clinical workflows.
 | **[NLP Analysis](https://github.com/shrikanthv15/DATA641-NLP-Homework-3)** | Jupyter Notebook | Advanced NLP assignments for Data641 class at UMD. |
 
 ---
-
-![shrikanthv15's Dev Card](https://gitwrapped.aryansync.com/api/card/shrikanthv15)
 
