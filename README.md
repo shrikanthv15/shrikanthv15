@@ -33,7 +33,7 @@ I am a **Data Analyst** and **Full-Stack AI Engineer** pursuing my **Master's in
 
 ## 🏆 Featured Projects
 
-### 🏦 [Moxi Mortgage Auto-Underwriter](https://github.com/shrikanthv15/YOUR-REPO-LINK-HERE)
+### 🏦 [Mortgage Auto-Underwriter](https://github.com/shrikanthv15/YOUR-REPO-LINK-HERE)
 **Stack:** FastAPI, Temporal.io, React, OpenAI, PostgreSQL
 
 A production-ready **Loan Origination System** that automates underwriting using AI.
